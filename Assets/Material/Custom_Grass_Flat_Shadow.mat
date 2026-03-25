@@ -36,8 +36,8 @@ Material:
     - _ShadowFadeEnd: 15
     - _ShadowFadeStart: 10
     - _ShadowRange: 200
-    - _ShadowStrength: 1
+    - _ShadowStrength: 0.567
     m_Colors:
-    - _BaseColor: {r: 0.41117835, g: 0.8301887, b: 0.4787607, a: 1}
+    - _BaseColor: {r: 0.65701824, g: 0.8207547, b: 0.58459413, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
